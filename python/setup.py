@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name="dependabot-subdir-lib",
-    version="1.2.0",
+    version="1.3.0",
     author="sysradium",
     description="Testing subdir functionality for dependabot",
     long_description_content_type="text/markdown",
